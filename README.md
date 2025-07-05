@@ -7,4 +7,4 @@ Travel Explore is a simple and responsive website built using HTML and CSS to he
 
 ![Screenshot 2025-07-05 155450](https://github.com/user-attachments/assets/ac83fcb7-c6ca-4a37-b886-7020bae40a33)
 ![Screenshot 2025-07-05 155340](https://github.com/user-attachments/assets/07cc6ccc-b4ce-4ade-8867-3020e63591d9)
-![Screenshot 2025-07-05 155340](https://github.com/user-attachments/assets/ca539a76-5e60-4d60-bb73-4a22afa5171f)
+![Screenshot 2025-07-05 160018](https://github.com/user-attachments/assets/c00c9ced-bd75-42f3-880b-16602dc2a77e)
